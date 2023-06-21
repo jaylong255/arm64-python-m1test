@@ -2,7 +2,7 @@
 
 Welcome to opening a pull request. Thanks for the contribution, brah.
 Review the checklist and do the right thing. If you have questions ask the
-[code owners](https://github.com/jaylong255/cyberworld-site/blob/master/.github/CODEOWNERS)
+[code owners](https://github.com/jaylong255/arm64-python-m1test/blob/master/.github/CODEOWNERS)
 
 ### About PR reviews
 
@@ -38,7 +38,7 @@ and forth for too long.
 ## Checklist
 
 - [ ] **PR Name:** Please name this PR in format of
-      `[TICKET_ID]: [BRIEF DESCRIPTION]`. For example: _MONO-0000: Implement
+      `[ISSUE_NUMBER]: [BRIEF_DESCRIPTION]`. For example: 1: Implement
       component X to use with Y_
 - [ ] **Ticket(s) and Related PR(s):** Add the tickets that this PR will resolve
       once merge. You can also add a list of related PR(s); this is useful when
