@@ -23,11 +23,11 @@ and forth for too long.
 
 ## Ticket(s)
 
-1. https://github.com/jaylong255/cyberworld-site/issues/1
+1. https://github.com/jaylong255/arm64-python-m1test/issues/1
 
 ## Related PR(s)
 
-1. [#0](https://github.com/jaylong255/cyberworld-site/pull/1)
+1. [#0](https://github.com/jaylong255/arm64-python-m1test/pull/1)
 
 ## Changes
 
@@ -38,7 +38,7 @@ and forth for too long.
 ## Checklist
 
 - [ ] **PR Name:** Please name this PR in format of
-      `[ISSUE_NUMBER]: [BRIEF_DESCRIPTION]`. For example: 1: Implement
+      `Issue [ISSUE_NUMBER]: [BRIEF_DESCRIPTION]`. For example: Issue 1: Implement
       component X to use with Y_
 - [ ] **Ticket(s) and Related PR(s):** Add the tickets that this PR will resolve
       once merge. You can also add a list of related PR(s); this is useful when
