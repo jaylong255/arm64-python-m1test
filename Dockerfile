@@ -1,4 +1,4 @@
-FROM arm64v8/python
+FROM arm64v8/python:3
 
 # Install system dependencies
 RUN apt-get update && apt-get install -y \
